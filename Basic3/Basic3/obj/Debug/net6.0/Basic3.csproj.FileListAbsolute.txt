@@ -1,0 +1,15 @@
+C:\Works\Parkjs\Basic3\Basic3\bin\Debug\net6.0\Basic3.exe
+C:\Works\Parkjs\Basic3\Basic3\bin\Debug\net6.0\Basic3.deps.json
+C:\Works\Parkjs\Basic3\Basic3\bin\Debug\net6.0\Basic3.runtimeconfig.json
+C:\Works\Parkjs\Basic3\Basic3\bin\Debug\net6.0\Basic3.dll
+C:\Works\Parkjs\Basic3\Basic3\bin\Debug\net6.0\Basic3.pdb
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\Basic3.csproj.AssemblyReference.cache
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\Basic3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\Basic3.AssemblyInfoInputs.cache
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\Basic3.AssemblyInfo.cs
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\Basic3.csproj.CoreCompileInputs.cache
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\Basic3.dll
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\refint\Basic3.dll
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\Basic3.pdb
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\Basic3.genruntimeconfig.cache
+C:\Works\Parkjs\Basic3\Basic3\obj\Debug\net6.0\ref\Basic3.dll
