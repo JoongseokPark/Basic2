@@ -1,0 +1,17 @@
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.csproj.AssemblyReference.cache
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.Form1.resources
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.csproj.GenerateResource.cache
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.AssemblyInfoInputs.cache
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.AssemblyInfo.cs
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.csproj.CoreCompileInputs.cache
+C:\Works\Parkjs\Tamagochi2\bin\Debug\net7.0-windows\Tamagochi2.exe
+C:\Works\Parkjs\Tamagochi2\bin\Debug\net7.0-windows\Tamagochi2.deps.json
+C:\Works\Parkjs\Tamagochi2\bin\Debug\net7.0-windows\Tamagochi2.runtimeconfig.json
+C:\Works\Parkjs\Tamagochi2\bin\Debug\net7.0-windows\Tamagochi2.dll
+C:\Works\Parkjs\Tamagochi2\bin\Debug\net7.0-windows\Tamagochi2.pdb
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.dll
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\refint\Tamagochi2.dll
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.pdb
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\Tamagochi2.genruntimeconfig.cache
+C:\Works\Parkjs\Tamagochi2\obj\Debug\net7.0-windows\ref\Tamagochi2.dll
