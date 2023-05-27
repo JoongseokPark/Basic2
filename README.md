@@ -8,3 +8,4 @@ Basic instrument of c# written by newbie while studying
 4. field and properties?
 5. Using WinForm to visualizition my code
 6. Actually duplicate Instants
+7. Checking event happens by delegate
