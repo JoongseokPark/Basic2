@@ -29,24 +29,14 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            pictureBox1 = new PictureBox();
             button1 = new Button();
             timer1 = new System.Windows.Forms.Timer(components);
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            label1 = new Label();
             SuspendLayout();
-            // 
-            // pictureBox1
-            // 
-            pictureBox1.Image = Properties.Resources.car;
-            pictureBox1.Location = new Point(12, 34);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(100, 75);
-            pictureBox1.TabIndex = 0;
-            pictureBox1.TabStop = false;
             // 
             // button1
             // 
-            button1.Location = new Point(12, 136);
+            button1.Location = new Point(12, 12);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 1;
@@ -54,24 +44,32 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(95, 16);
+            label1.Name = "label1";
+            label1.Size = new Size(100, 15);
+            label1.TabIndex = 2;
+            label1.Text = "누가 1등을 할까?";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1264, 681);
+            Controls.Add(label1);
             Controls.Add(button1);
-            Controls.Add(pictureBox1);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
-
-        private PictureBox pictureBox1;
         private Button button1;
         private System.Windows.Forms.Timer timer1;
+        private Label label1;
     }
 }
