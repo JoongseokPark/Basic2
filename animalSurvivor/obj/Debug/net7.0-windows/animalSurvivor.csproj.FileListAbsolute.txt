@@ -1,0 +1,17 @@
+C:\Works\Parkjs\animalSurvivor\bin\Debug\net7.0-windows\animalSurvivor.exe
+C:\Works\Parkjs\animalSurvivor\bin\Debug\net7.0-windows\animalSurvivor.deps.json
+C:\Works\Parkjs\animalSurvivor\bin\Debug\net7.0-windows\animalSurvivor.runtimeconfig.json
+C:\Works\Parkjs\animalSurvivor\bin\Debug\net7.0-windows\animalSurvivor.dll
+C:\Works\Parkjs\animalSurvivor\bin\Debug\net7.0-windows\animalSurvivor.pdb
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.csproj.AssemblyReference.cache
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.Form1.resources
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.csproj.GenerateResource.cache
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.AssemblyInfoInputs.cache
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.AssemblyInfo.cs
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.csproj.CoreCompileInputs.cache
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.dll
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\refint\animalSurvivor.dll
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.pdb
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\animalSurvivor.genruntimeconfig.cache
+C:\Works\Parkjs\animalSurvivor\obj\Debug\net7.0-windows\ref\animalSurvivor.dll
